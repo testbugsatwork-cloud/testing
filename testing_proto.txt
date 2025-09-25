@@ -1,0 +1,4 @@
+"GoogleAuth": {
+    "ClientId": "1070670204727-h5jcavjnp17fa5qpn19l6193rb6i65em.apps.googleusercontent.com",
+    "ClientSecret": "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"
+}
